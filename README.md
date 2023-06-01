@@ -27,23 +27,32 @@
 
 ![Logo](https://img.freepik.com/fotos-gratis/conceito-de-negocio-com-holografia-grafica_23-2149160931.jpg?w=740&t=st=1685640330~exp=1685640930~hmac=631211c941de570ccad3c7b54a88d71557ac6ec668da516d33b3850a7136ee97)
 
-Bem-vindo o repositório abrangente de códigos, artigos e datasets relacionados a temas importantes em ciência de dados, como saúde, processamento de linguagem natural, detecção de fake news, modelos de classificação e análise de séries temporais. Aqui você encontrará uma variedade de recursos que podem ajudá-lo em suas pesquisas, projetos e aprendizado.
+Bem-vindo o repositório abrangente de códigos, datasets relacionados a temas importantes em ciência de dados, como saúde, processamento de linguagem natural, detecção de fake news, modelos de classificação e análise de séries temporais. Aqui você encontrará uma variedade de recursos que podem ajudá-lo em suas pesquisas, projetos e aprendizado.
 
 ## Saúde
-Nossos artigos cobrem uma ampla gama de tópicos em saúde, incluindo previsão de doenças, diagnósticos assistidos por computador, análise de dados clínicos e genômicos, e descoberta de padrões em grandes conjuntos de dados de saúde.
+Código para análise de dados médicos e predição de doenças.
+Conjuntos de dados de registros médicos e informações de saúde pública.
+Artigos sobre análise de dados para diagnóstico médico e detecção precoce de doenças.
 
-## NLP
-Processamento de Linguagem Natural (NLP). Segundo artigos abordam temas avançados em NLP, incluindo processamento de linguagem natural com redes neurais, aprendizado de representações de palavras, modelagem de tópicos, geração de texto, entre outros.
+## Processamento linguagem natural
+Implementações de algoritmos de PLN, como tokenização, lematização e análise de sentimentos.
+Conjuntos de dados para treinamento e teste de modelos de PLN.
+Artigos sobre técnicas avançadas de PLN, como processamento de texto em larga escala e tradução automática.
 
-## Fake News
-Detecção de Fake News artigos exploram métodos eficazes para detectar e combater fake news, incluindo técnicas de verificação de fatos, análise de redes sociais, detecção de desinformação e desmascaramento de conteúdo enganoso.
-Modelos de Classificação:
+## Detecção notícias falsas
+Códigos para detecção automatizada de notícias falsas.
+Conjuntos de dados com exemplos de notícias verdadeiras e falsas.
+Artigos que exploram métodos de detecção de fake news usando técnicas de aprendizado de máquina e processamento de linguagem natural.
 
-## Machine learning
-Artigos sobe machine learning exploram técnicas avançadas de classificação, incluindo seleção de recursos, otimização de hiperparâmetros, interpretabilidade de modelos e avaliação de desempenho.
+## Machine learning - Classificação, regressão, cluster
+Implementações de algoritmos de classificação, como árvores de decisão, regressão logística e redes neurais.
+Conjuntos de dados para treinamento e avaliação de modelos de classificação.
+Artigos que comparam diferentes abordagens de classificação e técnicas de seleção de recursos.
 
-## Análise de Séries Temporais
-Artigos sobe séries temporais que abrangem métodos avançados para análise e previsão de séries temporais, como modelos de séries temporais multivariadas, decomposição sazonal, detecção de anomalias e técnicas de suavização. Além dos recursos mencionados acima, nosso repositório também inclui tutoriais, notebooks interativos e exemplos de aplicação prática de conceitos e técnicas em ciência de dados. Navegue pelo repositório, explore os diferentes diretórios e aproveite ao máximo os materiais disponíveis. 
+## Análise e previsão de séries temporais.
+Conjuntos de dados com séries temporais de diferentes domínios.
+Artigos sobre métodos avançados de análise de séries temporais, incluindo modelos autoregressivos, ARIMA e redes neurais recorrentes.
+Esperamos que esse repositório seja útil para você explorar e aprofundar seus conhecimentos em ciência de dados. Fique à vontade para explorar os recursos disponíveis e utilize-os como ponto de partida para seus próprios projetos e estudos. Lembre-se de sempre citar as fontes adequadas ao utilizar qualquer material deste repositório.
 
 # Conclusão
 Lembramos que todos os códigos, artigos e datasets estão disponíveis para uso educacional e acadêmico, seguindo as devidas referências e direitos autorais aplicáveis. Encorajamos os usuários a contribuírem com novos materiais e compartilharem seus próprios códigos e projetos. Esperamos que este repositório seja um recurso valioso para sua jornada em ciência de dados e que você encontre informações relevantes e úteis para suas necessidades. Se tiver alguma dúvida ou precisar de assistência adicional, não hesite em entrar em contato. Boa exploração e sucesso em seus projetos de ciência de dados!
